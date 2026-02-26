@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <img src="CPC.jpg" alt=""Profile Picture"
+         style="width:150px; height:150px; border-radius:50%; margin-top:20px;">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <style>
+    body {
+        
+     background-image: url("technology.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+
+             body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url("technology.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        </style>
+
+</head>
+<body>
+<strong><H2><hr> CONTACT ME THROUGH MY FACEBOOK ACCOUNT<br></H2></strong>
+ <STRONG> <a href="https://www.facebook.com/bryceeeiiiii">Matugas Facebook Account</a><br></STRONG> 
+<h2>CONTACT ME:</h2>
+<p>Cellphone Number: 09701980336<br>
+    @mail Address: keithbrycematugas56@gmail.com<br>
+
+</p>
+</hr>
+  <strong><hr><H2> CONTACT ME THROUGH MY FACEBOOK ACCOUNT<br></H2></strong>
+   <STRONG> <a href="https://www.facebook.com/kyledenver.macalinao.54">Macalinao Facebook Account</a><br></STRONG>
+<h2>CONTACT ME:</h2>
+    <p>Cellphone Number: 09565388992<br>
+    @mail Address: kyledenver24macalinao@gmail.com<br>
+    
+</p>
+</hr>
+      <h1><a href="index.html">Back to Home</a></h1>
+</body>
+</html>
